@@ -6,4 +6,4 @@
 
 Screenshot
 
-![Screenshot Hasil Runnind Program](/ss.png)
+![Screenshot Hasil Runnind Program](/shiftcipher/ss.png)
