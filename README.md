@@ -1,9 +1,9 @@
-# Nama : Elshandi Septiawan
+## Nama : Elshandi Septiawan
 
-# NPM : 140810190050
+## NPM : 140810190050
 
-# Kelas : B
+## Kelas : B
 
 Screenshot
 
-(ss.png)
+!(ss.png)
