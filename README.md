@@ -6,4 +6,4 @@
 
 Screenshot
 
-!(ss.png)
+![Screenshot Hasil Runnind Program](/ss.png)
